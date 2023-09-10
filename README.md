@@ -4,7 +4,7 @@ Este es un proyecto de ejemplo que utiliza técnicas de procesamiento de lenguaj
 
 ## Enlace a Google Colab
 
-Para ejecutar este proyecto, puedes abrir el cuaderno en Google Colab. [Haciendo clic acá se puede acceder al cuaderno en Google Colab](https://colab.research.google.com/drive/1s_qdmUWVTU0CvmC-QbsmZueL1sKrzFTn#scrollTo=gYSv4O2CR96r).
+Para ejecutar este proyecto, puedes abrir el cuaderno en Google Colab. [Haciendo clic acá se puede acceder al cuaderno en Google Colab](https://colab.research.google.com/drive/1s_qdmUWVTU0CvmC-QbsmZueL1sKrzFTn).
 
 ## Los pasos incluidos en nuestro modelo son:
 
